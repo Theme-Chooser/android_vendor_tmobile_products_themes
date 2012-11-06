@@ -2,7 +2,6 @@ PRODUCT_PACKAGES += \
 	ThemeManager \
 	ThemeChooser \
 	com.tmobile.themes \
-	Liquid_Blueberry \
 	Androidian \
 	Cyanbread
 
