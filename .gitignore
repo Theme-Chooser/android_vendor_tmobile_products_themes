@@ -1,0 +1,43 @@
+############
+## Android
+############
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+############
+## Notepad++
+############
+
+nppBackup
+
+############
+## MISC
+############
+
+local2_manifest.xml
+README2.mkdn
